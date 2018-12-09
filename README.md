@@ -1,5 +1,6 @@
 # 271project
 
+## usage 
 $ ./project [testcase.txt]
 
 If there is no solution, it will just output no solution
