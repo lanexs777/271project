@@ -8,18 +8,19 @@ There are four .py files which represet dpll, dpll_improve, walkSat, walkSat_imp
 ```
 $ python DPLL.py [testcase]
 ```
-if it find a solution, it will print "Solution :" on the terminal else it will print "None".
+
 
 ### dpll_improve
 ```
 $ python DPLL-optimized.py [testcase]
 ```
-if it find a solution, it will print "Solution :" on the terminal else it will print "None".
+
 
 ### walkSat_base
 ```
-$ python WalkSAT_base.py
+$ python WalkSAT_base.py [testcase]
 ```
+if it find a solution, it will print "Solution :" on the terminal else it will print "None".
 
 
 ### walkSat_improve
