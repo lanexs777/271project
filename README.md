@@ -21,5 +21,5 @@ There are four .py files which represet dpll, dpll_improve, walkSat, walkSat_imp
 $ python wakSat_improve.py [testfile]
 
 ```
-
+If it find a solution, it will print the cost time and write the solution in "result" file.
 
