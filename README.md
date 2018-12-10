@@ -1,4 +1,4 @@
-# 271project
+# Project - Boolean (propositional) satisfiability
 
 ## Running the test
 There are four .py files which represet dpll, dpll_improve, walkSat, walkSat_improve. All have the same uasge.
