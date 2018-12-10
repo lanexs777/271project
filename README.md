@@ -1,9 +1,25 @@
 # 271project
 
-## usage 
-$ ./project [testcase.txt]
+## Getting started 
+There are four .py files which represet dpll, dpll_improve, walkSat, walkSat_improve. All have the same uasge
 
-If there is no solution, it will just output no solution
->> no soultion 
+### dpll
+```
 
-If there is solution, it will output the time and write the result and  the file "result"
+```
+
+### dpll_improve
+```
+```
+
+### walkSat
+
+
+### walkSat_improve
+
+```
+$ python wakSat_improve.py [testfile]
+
+```
+
+
