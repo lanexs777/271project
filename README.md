@@ -8,13 +8,13 @@ There are four .py files which represet dpll, dpll_improve, walkSat, walkSat_imp
 ```
 $ python DPLL.py [testcase]
 ```
-
+If it find a solution, it will print "Solution :" on the terminal else it will print "None".
 
 ### dpll_improve
 ```
 $ python DPLL-optimized.py [testcase]
 ```
-
+If it find a solution, it will print "Solution :" on the terminal else it will print "None".
 
 ### walkSat_base
 ```
